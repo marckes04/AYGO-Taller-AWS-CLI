@@ -16,8 +16,7 @@ en la siguiente imagen se van a establecer el grupo de seguridad respectivamente
 
 
 Por ultimo se corre una aplicacion WEB realiza en Java MVN validada en cada en una de las instancias para asi
-poder observar su optimo funcionamiento.
-
+poder observar su optimo funcionamiento aplicado en cada una de sus instancias.
 
   
-  
+![image](https://user-images.githubusercontent.com/71477601/141601493-e4d733e3-d0ec-4e84-8b07-f37186787d85.png)
